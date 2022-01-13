@@ -30,8 +30,10 @@ Once you have installed Python, you may download the **2s_complement.py** and ru
 
 **Have fun!**
 
-## Contributing
-Feel free to fork and give a star to my repo. If you have a good idea or find a bug in my codes, make a pull request and raise an issue at my repo anytime!
+## Contribution
+Feel free to fork and give a star to my repo. 🌟 
+
+If you have a good idea or find a bug in my codes, make a pull request and raise an issue at my repo anytime!
 
 ## Coming Soon
-I will be creating more repos, stay tuned!
+I will be creating more repos, stay tuned! 🔥
