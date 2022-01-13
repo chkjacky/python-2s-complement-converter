@@ -9,7 +9,7 @@ A dec-bin converter uses 2's complement. Visit my [Medium Post](https://chkjacky
 ## What is 2's complement?
 Two's complement is the most common method of representing signed integers on computers. Note that signed integers represent both positive and negative numbers whereas unsigned integers represent non-negative numbers (zero or positive numbers) only.
 
-Since it is expresses the negative numbers in binary form, we will use this method when converting a negative denary number to binary. The complements are as below:
+Since it expresses the negative numbers in binary form, we will use this method when converting a negative denary number to binary. The complements are as below:
 - 1's complement inverts the binary numbers;
 - 2's complement adds a bit (1) or a fractional bit (0.0…1) to the inverted binary numbers.
 
