@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/Blog-Medium-informational?style=flat&logo=Medium&logoColor=white&color=critical)](https://chjacky.medium.com/convert-a-negative-decimal-number-with-a-fractional-part-using-2s-complement-in-python-db6b1050e133)
 [![](https://img.shields.io/badge/Contributions-Welcome-important)](https://github.com/chihunkhaw/2s-complement-converter)
 
-A dec-bin converter uses 2's complement. Visit my [Medium Post](https://chjacky.medium.com/convert-a-negative-decimal-number-with-a-fractional-part-using-2s-complement-in-python-db6b1050e133).
+A dec-bin converter uses 2's complement. Visit my [Medium Post](https://chkjacky.medium.com/convert-a-negative-decimal-number-with-a-fractional-part-using-2s-complement-in-python-db6b1050e133).
 
 ## What is 2's complement?
 Two's complement is the most common method of representing signed integers on computers. Note that signed integers represent both positive and negative numbers whereas unsigned integers represent non-negative numbers (zero or positive numbers) only.
