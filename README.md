@@ -26,7 +26,7 @@ These instructions will get you a copy of the project on your local machine.
 ### Downloading the Python File
 Once you have installed Python, you may download the **2s_complement.py** and run it on your machine.
 
-![](https://cdn-images-1.medium.com/max/1100/1*5S9axv4EJQeIYgMGrK2elA.png)
+![](https://miro.medium.com/max/875/1*zhwyxj9eENthviK2QGUFng.png)
 
 **Have fun!**
 
