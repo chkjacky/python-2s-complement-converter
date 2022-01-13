@@ -1,7 +1,7 @@
 # 2's Complement Dec-Bin Converter
 [![](https://img.shields.io/badge/Code-Python-success?style=flat&logo=Python&logoColor=white)](https://www.python.org/)
 [![](https://img.shields.io/badge/License-MIT-informational)](https://opensource.org/licenses/MIT)
-[![](https://img.shields.io/badge/Blog-Medium-informational?style=flat&logo=Medium&logoColor=white&color=critical)](https://chjacky.medium.com/convert-a-negative-decimal-number-with-a-fractional-part-using-2s-complement-in-python-db6b1050e133)
+[![](https://img.shields.io/badge/Blog-Medium-informational?style=flat&logo=Medium&logoColor=white&color=critical)](https://chkjacky.medium.com/convert-a-negative-decimal-number-with-a-fractional-part-using-2s-complement-in-python-db6b1050e133)
 [![](https://img.shields.io/badge/Contributions-Welcome-important)](https://github.com/chihunkhaw/2s-complement-converter)
 
 A dec-bin converter uses 2's complement. Visit my [Medium Post](https://chkjacky.medium.com/convert-a-negative-decimal-number-with-a-fractional-part-using-2s-complement-in-python-db6b1050e133).
