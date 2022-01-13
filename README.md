@@ -9,7 +9,7 @@ A dec-bin converter uses 2's complement. Visit my [Medium Post](https://chjacky.
 ## What is 2's complement?
 Two's complement is the most common method of representing signed integers on computers. Note that signed integers represent both positive and negative numbers whereas unsigned integers represent non-negative numbers (zero or positive numbers) only.
 
-Since it is expresses the negative numbers in binary form, we will only use this method when converting a negative denary number to binary. The complements are as below:
+Since it is expresses the negative numbers in binary form, we will use this method when converting a negative denary number to binary. The complements are as below:
 - 1's complement inverts the binary numbers;
 - 2's complement adds a bit (1) or a fractional bit (0.0…1) to the inverted binary numbers.
 
@@ -24,7 +24,7 @@ These instructions will get you a copy of the project on your local machine.
     - You may refer to the installation [process](https://www.youtube.com/watch?v=uDbDIhR76H4).
 
 ### Downloading the Python File
-Once you have installed the Python, you may download the **2s_complement.py** and run it on your machine.
+Once you have installed Python, you may download the **2s_complement.py** and run it on your machine.
 
 ![](https://cdn-images-1.medium.com/max/1100/1*5S9axv4EJQeIYgMGrK2elA.png)
 
